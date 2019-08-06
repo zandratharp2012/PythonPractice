@@ -1,0 +1,42 @@
+Southwest
+0
+0
+0
+0
+Yes!
+JetBlue
+20
+35
+75
+125
+Yikes
+Alaska Airlines
+25
+25
+125
+155
+Ooof
+Delta
+25
+35
+200
+150
+We Lost Track
+United
+25
+35
+200
+250
+Whaaaaat?
+Am. Airlines
+25
+35
+200
+205
+Arrrgh!
+Spirit
+30
+40
+100
+292
+Really??
