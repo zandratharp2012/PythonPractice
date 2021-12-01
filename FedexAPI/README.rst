@@ -1,4 +1,5 @@
 Python FedEx SOAP API Module
+We are utilizing a light wrapper (seen below) to run our fedex freight program using our company freight rates. 
 ============================
 
 .. image:: https://badge.fury.io/py/fedex.svg
